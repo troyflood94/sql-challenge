@@ -1,0 +1,8 @@
+Troy Flood
+For this project we were tasked with creating 6 tables relating to the CSV files in the "data" folder.  The syntax used to accomplish this are located in sql_scripts.  
+We then imported the CSVs into Postgres to the corresponding tables. This could be difficult if the primary keys were not set correctly. But once that is confirmed,
+and you check the headers box, a simple import handled that. 
+
+In the ERD_project image you can see the foreign keys that were created post table creation, and they should all be connected in a meaningful way. 
+
+The final part is coming next. 
