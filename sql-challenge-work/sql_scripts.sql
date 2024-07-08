@@ -45,3 +45,5 @@ Create Table titles(
 	title text NOT NULL,
 	primary key(title_id)
 	)	
+
+    --the foreign keys and restraints were mostly assigned after the fact, as can be seen in my ERD_project file.  I double clicked a table in my ERD and was able to add them after creation
