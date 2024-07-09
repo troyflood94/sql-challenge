@@ -5,4 +5,12 @@ and you check the headers box, a simple import handled that.
 
 In the ERD_project image you can see the foreign keys that were created post table creation, and they should all be connected in a meaningful way. 
 
-I also was able to answer two questions up to this point. The screenshot results are includes in the output folder. I feel those outputs prove I imported the data correctly, otherwise they would not have worked properly. 
+In the Outputs folder there are 8 images q1-q8_sql, they correspond to the following questions respectively:
+q1. List the employee number, last name, first name, sex, and salary of each employee
+q2. List the first name, last name, and hire date for the employees who were hired in 1986
+q3. List the manager of each department along with their department number, department name, employee number, last name, and first name
+q4. List the department number for each employee along with that employee’s employee number, last name, first name, and department name
+q5. List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B
+q6. List each employee in the Sales department, including their employee number, last name, and first name
+q7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name
+q8. List the frequency counts, in descending order, of all the employee last names 
